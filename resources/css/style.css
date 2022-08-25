@@ -19,9 +19,14 @@ h2 {
 h3 {
     font-size: 21px;
     color: grey;
+    font-weight: normal;
 }
 
 a {
     color: aquamarine;
     text-decoration-line: underline;
+}
+
+#footer {
+    text-align: right;
 }
